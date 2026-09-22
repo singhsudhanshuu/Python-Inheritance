@@ -1,0 +1,2 @@
+# Inheritance
+Training Question
